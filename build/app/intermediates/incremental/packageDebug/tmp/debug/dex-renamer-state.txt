@@ -1,0 +1,4 @@
+#Mon Feb 13 13:58:03 GFT 2023
+base.0=C\:\\Users\\abmap\\Documents\\Projetos Flutter\\pokedex_app - Copia\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
