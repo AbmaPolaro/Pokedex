@@ -13,11 +13,11 @@ class PokemonApi {
         for (var e in (json['data'] as List)) {
           list.add(Data.fromJson(e));
         }
-        return list;
+        return [];
       }
-      return list;
-    } catch (e) {}
-
-    throw {print('erro')};
+    } catch (e) {
+      return [];
+    }
+    return [];
   }
 }
